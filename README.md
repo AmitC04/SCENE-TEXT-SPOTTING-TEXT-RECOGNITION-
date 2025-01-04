@@ -73,4 +73,13 @@ We welcome contributions from the community! To contribute: Fork the repository.
 
 ## License 
 This project is licensed under the MIT License. Feel free to use, modify, and distribute this project as per the license terms.
+
+
+## <span style="color:blue; font-weight:bold;">**📝 Feedback and Support**</span>  
+If you have any feedback, suggestions, or questions regarding the project, please create an issue in the repository or contact me at:  
+[amitc220404@gmail.com](mailto:amitc220404@gmail.com)   
+
+
+## <span style="color:blue; font-weight:bold;">**⭐ Show Your Support**</span>  
+If you find this repository helpful, don't forget to show your support by giving it a star! ⭐
                                                             
